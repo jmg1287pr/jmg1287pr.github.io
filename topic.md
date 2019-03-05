@@ -12,7 +12,7 @@
     + Whistle
     + Book to identify dangerous plants [Link To Helpful Plant Website](http://www.fukushihoken.metro.tokyo.jp/shokuhin/eng/dokusou/00.html)
  
-  ! [Centipedes](https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/4/2017/07/mukade-main-1024x680.jpg)
+  ![Centipedes](https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/4/2017/07/mukade-main-1024x680.jpg)
  
  
  [Home Page](index)
