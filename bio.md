@@ -4,10 +4,16 @@ My name is Joshua Micheal Goodman. I grew up in Baltimore, Maryland. I was born 
 
 ![Alt text](https://roaminglove.imgix.net/2017/08/IMG_20160927_191507_opt.jpg)
 
-+ Bullet
-  + Second
++ # Interests
+  + Fitness
+  + Sports
+  + Hiking
+  + Computers
+  + Cooking
+  + Traveling
 
 
 
 
-[Home Page](index)                                                                              [The Essentials](topic)
+[Home Page](index)                                                                             
+[The Essentials](topic)
