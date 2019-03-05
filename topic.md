@@ -3,7 +3,7 @@
  
  Hiking can be dangerous at times, especially while doing it in a new environment that is new to you. Japan is very different from most places in the United States, filled with new animals, insects, plants, terrain, types of weather and different customs that may be needed while interacting with other hikers. Below is a list of the essentials to bring along while hiking as well as information to remember.
  
-# + MUST HAVE ITEMS 
+ + MUST HAVE ITEMS 
     + Water 
     + Map
     + Japanese Translator Book
