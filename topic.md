@@ -15,6 +15,6 @@
   ![Centipedes](https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/4/2017/07/mukade-main-1024x680.jpg)
  
  
- [Home Page](index)
+# [Home Page](index)
  
- [Biography](bio)
+# [Biography](bio)
